@@ -34,5 +34,5 @@ namespace ConsoleApp
       }
     }
   }
-  internal class Db : SamuraiContext { }
+  internal class Db : SamuraiContext { } //testing workaround 
 }
